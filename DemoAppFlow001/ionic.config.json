@@ -1,0 +1,7 @@
+{
+  "name": "DemoAppFlow001",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
